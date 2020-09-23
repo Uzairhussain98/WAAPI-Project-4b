@@ -1,0 +1,39 @@
+.container{
+height: 70vh;
+width: 96%;
+/* background-color: darkblue; */
+background: linear-gradient(60deg, #0c6a96, #073866);
+
+margin-top: 95px;
+padding-top: 80px;
+padding-left: 50px;
+clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 0% 100%);
+
+
+
+}
+.container__head{
+    font-size: 30px;
+    color:whitesmoke;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+
+
+}
+.column__container{
+ font-size: large;
+    display: flex;
+    margin-right: 0px;
+    
+
+}
+.column{
+    padding-right:40px;
+    width:500px;
+}
+.column > p {
+    color: darkgray;
+    font-size: medium;
+
+}

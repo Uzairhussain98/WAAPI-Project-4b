@@ -12,7 +12,7 @@ const { ref } = useWebAnimations({
   keyframes,
   timing: {
     ...timing,
-    delay: 1000, // Delay 1s
+    delay: 1200, // Delay 1s
   },
 });
 

@@ -1,0 +1,41 @@
+.weare{
+    display: flex;
+    margin-top:100px;
+    margin-left:70px;
+
+    
+}
+
+.weare__image{
+    height: 400px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.weare__text{
+    margin-left: 30px;
+    padding-right:70px ;
+    text-align: left;
+    padding-left:10px ;
+    padding-top:20px ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: black;
+
+
+
+
+}
+.weare__head{
+    color: rgb(3, 3, 116);
+
+}
+.abt__btn{
+    margin-top: 20px;
+    border-bottom: 4px solid rgb(3, 3, 170);
+    border-bottom-right-radius: 2px;
+    width: 17%;
+    
+    
+}
