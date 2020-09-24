@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import image from './home_img.png'
-import useWebAnimations, { bounce ,fadeIn, fadeInLeft } from "@wellyshen/use-web-animations";
+import useWebAnimations, { fadeIn, fadeInLeft } from "@wellyshen/use-web-animations";
 
 
 const Home = () => {

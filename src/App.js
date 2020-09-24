@@ -4,6 +4,8 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Weare from './components/Weare';
 import Container from './components/Container';
+import Talk from './components/Talk';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -13,6 +15,8 @@ function App() {
       <Home/>
       <Weare/>
       <Container/>
+      <Talk/>
+      <Footer/>
 
     </div>
   );

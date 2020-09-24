@@ -1,22 +1,19 @@
-.weare{
+.talk{
     display: flex;
-    margin-top:100px;
+    margin-top:70px;
     margin-left:70px;
 
     
 }
-
-.weare__image{
+.talk__image{
     height: 400px;
     width: 500px;
-    margin-left: 30px;
-    margin-top: 20px;
-    margin-right: 50px;
+    margin-left: 40px;
 
 }
-.weare__text{
+.talk__text{
     margin-left: 30px;
-    padding-right:70px ;
+    padding-right:100px ;
     text-align: left;
     padding-left:10px ;
     padding-top:20px ;
@@ -28,15 +25,25 @@
 
 
 }
-.weare__head{
-    color: #388cbc;
+.talk__text > p {
+    margin-top: 50px;
+
 
 }
-.abt__btn{
-    margin-top: 20px;
+.talk__text > h1 {
+color: #388cbc;
+
+}
+
+.talk__btn{
+    margin-top: 50px;
     border-bottom: 4px solid #34b4e0;
     border-bottom-right-radius: 2px;
-    width: 17%;
+    width: 23%;
     
     
+    
+}
+.talk__btn:hover {
+    cursor: pointer;
 }

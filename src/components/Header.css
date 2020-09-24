@@ -42,7 +42,16 @@ margin-right:60px;
     text-decoration: none;
     transition: all ease 0.5s;
     font-weight: 100;
-    color: rgb(3, 3, 116);
+    color:#388cbc;
+
+
+ }
+
+ .link:hover{
+     transition: all ease 0.5s;
+     background-color: rgb(16, 188, 231);
+     cursor: pointer;
+
 
 
  }

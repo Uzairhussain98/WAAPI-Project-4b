@@ -1,12 +1,22 @@
  import React from 'react'
  import './Container.css'
+ import Zoom from 'react-reveal/Zoom';
+
  
  const Container = () => {
+
+
+
+
+
+
    return (
-     <div className="container">
+     <div  className="container">
+       <Zoom duration={2000}>
        <div className="container__head">
         <h3 style={{fontWeight:100}}>Economical,<br/> dynamic and managed business solutions
  </h3>
+ 
       <div className="column__container">
         <div className="column">
        <h3>Improved efficiency</h3>
@@ -39,6 +49,7 @@
 
 
        </div>
+       </Zoom>
      </div>
    )
  }
