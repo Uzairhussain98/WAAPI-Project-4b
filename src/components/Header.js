@@ -8,7 +8,7 @@
      <div className="header">
         <div className="header__logo">
             <img className="logo__image" src={logo} alt="logo"/>
-            <h3>Zapre Technologies</h3>
+            <h3>Venom Technologies</h3>
 
         </div>
         <div className="header__links">
